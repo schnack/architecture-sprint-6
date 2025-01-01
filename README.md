@@ -15,6 +15,9 @@
 ![](Exc2/2.png)
 ![](Exc2/3.png)
 
+## Задание 5
+
+[Схема GraphQL](Exc5/schema.graphql)
 
 ## Задание 6
 
