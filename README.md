@@ -15,6 +15,12 @@
 ![](Exc2/2.png)
 ![](Exc2/3.png)
 
+## Задание 3
+
+[Список проблем и рисков с ростом нагрузки](Exc3/README.md)
+
+[Диаграмма с предложением решения проблем](Exc3/InsureTech_C4_сontainer-diagram.drawio)
+
 ## Задание 5
 
 [Схема GraphQL](Exc5/schema.graphql)
