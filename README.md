@@ -21,6 +21,10 @@
 
 [Диаграмма с предложением решения проблем](Exc3/InsureTech_C4_сontainer-diagram.drawio)
 
+## Задание 4
+
+[Схема продажи ОСАГО](Exc4/InsureTech_C4_сontainer-diagram.drawio)
+
 ## Задание 5
 
 [Схема GraphQL](Exc5/schema.graphql)
